@@ -1,3 +1,4 @@
+```
 obj.setAttribute('属性', '属性的值');  //更改某个元素的属性值
 obj.getAttribute('属性');     //获得某个元素的属性值
 创建元素节点  ele.createElement(" ")
@@ -22,3 +23,5 @@ firstChild
 lastChild
 nextSibling  下一个元素
 previousSibling  上一个元素
+
+```
